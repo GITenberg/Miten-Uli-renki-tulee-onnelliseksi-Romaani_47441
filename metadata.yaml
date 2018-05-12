@@ -1,4 +1,5 @@
 _repo: Miten-Uli-renki-tulee-onnelliseksi-Romaani_47441
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Lehtonen, Joel
@@ -9,6 +10,9 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Joel_Lehtonen
     - http://fi.wikipedia.org/wiki/Joel_Lehtonen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gotthelf, Jeremias
@@ -22,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35761
     wikipedia: http://en.wikipedia.org/wiki/Jeremias_Gotthelf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47441#Miten-Uli-renki-tulee-onnelliseksi-Romaani
 gutenberg_issued: '2014-11-23'
 gutenberg_type: Text
 identifiers:
